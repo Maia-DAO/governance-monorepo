@@ -11,7 +11,7 @@ We believe in the power of decentralized decision-making and welcome your active
 
 ## Governance Process
 
-This section offers detailed instructions and a step-by-step guide on how to progress from an initial idea to the on-chain execution of a proposal. This section provides clear and easy-to-understand instructions, possibly accompanied by flow diagrams or process maps to facilitate comprehension. Whether you are a newcomer or an experienced contributor, this guide will help you navigate the governance processes efficiently, ensuring transparency and inclusivity throughout.
+This section offers detailed instructions and a step-by-step guide on how to progress from an initial idea to the on-chain execution of a proposal.
 
 ### Phase 1: Request for Comment (RFC)
 
