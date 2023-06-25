@@ -27,13 +27,13 @@ The purpose of the Temperature Check is to signal community sentiment on a new p
 
 To create a Temperature Check:
 
-    1. Incorporate the community feedback from the RFC phase into the proposal.
+1. Incorporate the community feedback from the RFC phase into the proposal.
 
-    2. Create and post this version of the proposal in the Governance Forum with the following title “TC - [Your Title Here]”. Include a link to the RFC post. You will update the post to include a link to the Snapshot poll after you’ve posted that.
+2. Create and post this version of the proposal in the Governance Forum with the following title “TC - [Your Title Here]”. Include a link to the RFC post. You will update the post to include a link to the Snapshot poll after you’ve posted that.
 
-    3. Create a Snapshot poll. The voting options should consist of those which have gained support in the RFC Phase. This poll can be either binary or multiple choice but must include a “Nay” option. Set your poll duration. Include a link to the Forum Proposal Temperature Check post.
+3. Create a Snapshot poll. The voting options should consist of those which have gained support in the RFC Phase. This poll can be either binary or multiple choice but must include a “Nay” option. Set your poll duration. Include a link to the Forum Proposal Temperature Check post.
 
-    4. Update the Forum post with a link to the Snapshot Poll.
+4. Update the Forum post with a link to the Snapshot Poll.
 
 At the end of 5 days, the option with the majority of votes wins. There must be at least 10M bHERMES yes votes to move onto Phase 3. If the “Nay” option wins, the proposal will not move onto the Phase 3.
 
@@ -45,15 +45,15 @@ Phase 3 is the final step of the governance process. If this vote passes, then a
 
 To create an on-chain Governance Proposal:
 
-    1. Incorporate any last iterations to your proposal based on feedback prior to posting.
+1. Incorporate any last iterations to your proposal based on feedback prior to posting.
 
-    2. Create a topic in the [TBD] titled “Governance Proposal — [Your Title Here]” and link to previous forum posts and the Proposal Temperature Check Snapshot poll.
+2. Create a topic in the [TBD] titled “Governance Proposal — [Your Title Here]” and link to previous forum posts and the Proposal Temperature Check Snapshot poll.
 
-    3. Create your proposal. This can be done either through an interface (on [TBD]) or through writing the calldata for more complicated proposal logic. This calldata will be executed if and when the proposal passes. If writing the calldata yourself, please review the logic with a qualified Hermes community member prior to posting the proposal.
+3. Create your proposal. This can be done either through an interface (on [TBD]) or through writing the calldata for more complicated proposal logic. This calldata will be executed if and when the proposal passes. If writing the calldata yourself, please review the logic with a qualified Hermes community member prior to posting the proposal.
 
-    4. Ensure that at least the minimum voting power threshold is delegated to your address in order to submit a proposal, or find a delegate who has enough delegated bHERMES to meet the proposal threshold to propose on your behalf.
+4. Ensure that at least the minimum voting power threshold is delegated to your address in order to submit a proposal, or find a delegate who has enough delegated bHERMES to meet the proposal threshold to propose on your behalf.
 
-    5. Once the proposal has been submitted (or the propose() function has been called), a two day voting delay will start. After the voting delay is finished, a seven day voting period begins. If the proposal passes successfully, the proposed code is executed.
+5. Once the proposal has been submitted (or the propose() function has been called), a two day voting delay will start. After the voting delay is finished, a seven day voting period begins. If the proposal passes successfully, the proposed code is executed.
     
 ## Governance Proposal Structure
 
